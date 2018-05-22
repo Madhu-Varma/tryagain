@@ -2,5 +2,5 @@ projectKey=org.mv.madhu:madhu
 serverUrl=http://192.168.56.1:9000
 serverVersion=7.1.0.11001
 dashboardUrl=http://192.168.56.1:9000/dashboard/index/org.mv.madhu:madhu
-ceTaskId=AWOGoT4IN7Q3olMmPArV
-ceTaskUrl=http://192.168.56.1:9000/api/ce/task?id=AWOGoT4IN7Q3olMmPArV
+ceTaskId=AWOGsonqN7Q3olMmPArW
+ceTaskUrl=http://192.168.56.1:9000/api/ce/task?id=AWOGsonqN7Q3olMmPArW
