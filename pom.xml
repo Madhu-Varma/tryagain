@@ -1,0 +1,8 @@
+<project>
+	<groupId>org.mv.madhu</groupId>
+	<artifactId>madhu</artifactId>
+	<version>1.0-SANPSHOT</version>
+	<modelVersion>4.0.0</modelVersion>
+	<packaging>jar</packaging>
+</project>
+
